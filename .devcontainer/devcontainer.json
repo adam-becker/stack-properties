@@ -1,0 +1,7 @@
+{
+  "dockerFile": "Dockerfile",
+  "remoteUser": "vscode",
+  "extensions": [
+    "ms-dotnettools.csharp"
+  ]
+}
