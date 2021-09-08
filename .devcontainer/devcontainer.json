@@ -3,6 +3,7 @@
   "remoteUser": "vscode",
   "extensions": [
     "editorconfig.editorconfig",
+    "ionide.ionide-fsharp",
     "ms-dotnettools.csharp",
   ],
   "settings": {
