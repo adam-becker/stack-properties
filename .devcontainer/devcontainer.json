@@ -2,6 +2,14 @@
   "dockerFile": "Dockerfile",
   "remoteUser": "vscode",
   "extensions": [
-    "ms-dotnettools.csharp"
-  ]
+    "editorconfig.editorconfig",
+    "ms-dotnettools.csharp",
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/bin": true,
+      "**/obj": true,
+    }
+  }
 }
